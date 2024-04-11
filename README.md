@@ -5,7 +5,7 @@
  - **Igor**
    - Upstream: [HexHive/Igor](https://github.com/HexHive/Igor)
    - Updates in: [SonicStark/Igor](https://github.com/SonicStark/Igor)
-   - Faster tracer as alternative: [SonicStark/FlashTracer](https://github.com/SonicStark/FlashTracer)
+   - Subproject [IgorFuzz](https://github.com/SonicStark/IgorFuzz)
    - Issues, usability and optimization
  - **Evocatio**
    - Upstream: [HexHive/Evocatio](https://github.com/HexHive/Evocatio)
